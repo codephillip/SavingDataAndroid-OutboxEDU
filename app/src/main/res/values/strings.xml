@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SavingData</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="color_prefs">
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yello</item>
+        <item>Red</item>
+    </string-array>
+</resources>
